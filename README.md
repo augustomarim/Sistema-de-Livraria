@@ -34,10 +34,10 @@ O projeto foi desenvolvido com foco em aplicar conceitos de **Programação Orie
 
 ## 📂 Estrutura do projeto
 src/
-└── sistemalivraria/
-├── app # Classe principal (Main)
-├── model # Entidades (Livro, Autor, Cliente, Emprestimo)
-└── service # Regras de negócio
+  sistemalivraria/
+    app        - Classe principal (Main)
+    model      - Entidades do sistema (Livro, Autor, Cliente, Emprestimo, enums)
+    service    - Regras de negócio e operações do sistema
 
 ## ▶️ Como executar o projeto
 
